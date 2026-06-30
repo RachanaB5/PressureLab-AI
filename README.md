@@ -20,6 +20,11 @@
 
 🎥 **Watch it in action:** [youtu.be/eskxAeMf5bg](https://youtu.be/eskxAeMf5bg)
 
+<img width="1438" height="808" alt="Screenshot 2026-07-01 at 2 02 06 AM" src="https://github.com/user-attachments/assets/35ff8295-4c64-4127-afd9-b424b51fb043" /> <img width="1438" height="808" alt="Screenshot 2026-07-01 at 2 03 50 AM" src="https://github.com/user-attachments/assets/df0c40ea-30f0-4853-996e-465970eb6af9" /><img width="1438" height="808" alt="Screenshot 2026-07-01 at 2 04 33 AM" src="https://github.com/user-attachments/assets/7b717500-b9b8-4a66-b1da-f4c632f73808" />
+<img width="1438" height="808" alt="Screenshot 2026-07-01 at 2 05 46 AM" src="https://github.com/user-attachments/assets/e54070f4-8e3c-4d2d-851b-d21809ed5244" />
+
+
+
 🔗 **Repository:** [github.com/RachanaB5/PressureLab-AI](https://github.com/RachanaB5/PressureLab-AI)
 
 ---
