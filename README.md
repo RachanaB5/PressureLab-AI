@@ -20,18 +20,6 @@
 
 🎥 **Watch it in action:** [youtu.be/eskxAeMf5bg](https://youtu.be/eskxAeMf5bg)
 
-<div align="center">
-
-https://github.com/user-attachments/assets/d654f6aa-3a0c-4d9b-952c-a05b1ec11bcb
-
-https://github.com/user-attachments/assets/bbf30b77-edf9-4249-a920-19e6b752611b
-
-https://github.com/user-attachments/assets/22391206-f111-4b1b-8b4b-157cbe97f80e
-
-https://github.com/user-attachments/assets/f44a516d-1285-4ea9-a064-acd70e66339b
-
-</div>
-
 🔗 **Repository:** [github.com/RachanaB5/PressureLab-AI](https://github.com/RachanaB5/PressureLab-AI)
 
 ---
