@@ -1,0 +1,118 @@
+# =============================================================================
+# PressureLab AI — root .gitignore (deployment-ready)
+# =============================================================================
+
+# --- Python virtual environments ---
+backend/.venv/
+**/.venv/
+venv/
+.venv/
+env/
+ENV/
+
+# --- Python bytecode & caches ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+.Python
+*.so
+*.dylib
+*.dll
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+coverage/
+.tox/
+.nox/
+.hypothesis/
+.dmypy.json
+dmypy.json
+
+# --- Node / frontend build ---
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+dist-ssr/
+build/
+.next/
+.nuxt/
+out/
+*.local
+.vite/
+.turbo/
+
+# --- Environment & secrets ---
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.local
+**/.env.*.local
+
+# --- OS & editors ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json.example
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# --- Logs ---
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# --- Databases (local dev) ---
+*.db
+*.sqlite
+*.sqlite3
+backend/pressurelab.db
+
+# --- Runtime / generated backend data ---
+backend/data/demo_cache/
+backend/data/processed_matches/
+backend/data/historical_kb.pkl
+backend/data/reports/
+backend/data/**/*.pkl
+
+# --- ML artifacts (regenerated at runtime; keep source in repo) ---
+# Shipped model is small (~360KB); uncomment next line to exclude and train on boot:
+# backend/models/prediction_model.pkl
+*.pt
+*.pth
+*.onnx
+*.h5
+*.ckpt
+*.safetensors
+wandb/
+mlruns/
+
+# --- Large downloaded / cache blobs ---
+.cache/
+*.tar.gz
+*.zip
+*.7z
+
+# --- Cursor / tooling (optional local) ---
+.cursor/
